@@ -1,4 +1,4 @@
-![BLACK-OUT](YOUR_IMAGE_PATH_HERE)
+![BLACK-OUT](banner/poster.png)
 
 <h1 align="center">☠️ BLACK-OUT</h1>
 
