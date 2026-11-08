@@ -1,6 +1,5 @@
 ![BLACK-OUT](banner/poster.png)
 
-<h1 align="center">☠️ BLACK-OUT</h1>
 
 <h3 align="center">HTTP LOAD TESTING • STRESS ANALYSIS • NETWORK PERFORMANCE</h3>
 
